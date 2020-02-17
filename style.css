@@ -1,0 +1,35 @@
+body {
+  background-color: lightblue;
+  font-family: arial, verdana, sans-serif;
+  font-size: 12;
+}
+
+
+h2 {
+  text-align: left;
+  color: grey;
+  font-size: 20;
+}
+
+p {
+	border: 5px solid #ee3e80
+	padding: 20px;
+	width: 275px;
+	border-radius: 10px;
+	-moz-border-radius: 10px
+	-webkit-border-raduis: 10px;
+	border: 1px solid black;
+  	outline-style:;
+  	outline-color: red;
+	font-size: 18;
+	font-weight:bold;
+}
+
+a:link {
+	color:blue
+}
+
+a:visited {
+	color:red;
+}
+
